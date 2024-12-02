@@ -1,0 +1,14 @@
+C:\Users\NIDA\source\repos\GalaxyShooter--Assignment3\GalaxyShooter--Assignment3\bin\Debug\net8.0\GalaxyShooter--Assignment3.exe
+C:\Users\NIDA\source\repos\GalaxyShooter--Assignment3\GalaxyShooter--Assignment3\bin\Debug\net8.0\GalaxyShooter--Assignment3.deps.json
+C:\Users\NIDA\source\repos\GalaxyShooter--Assignment3\GalaxyShooter--Assignment3\bin\Debug\net8.0\GalaxyShooter--Assignment3.runtimeconfig.json
+C:\Users\NIDA\source\repos\GalaxyShooter--Assignment3\GalaxyShooter--Assignment3\bin\Debug\net8.0\GalaxyShooter--Assignment3.dll
+C:\Users\NIDA\source\repos\GalaxyShooter--Assignment3\GalaxyShooter--Assignment3\bin\Debug\net8.0\GalaxyShooter--Assignment3.pdb
+C:\Users\NIDA\source\repos\GalaxyShooter--Assignment3\GalaxyShooter--Assignment3\obj\Debug\net8.0\GalaxyShooter--Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NIDA\source\repos\GalaxyShooter--Assignment3\GalaxyShooter--Assignment3\obj\Debug\net8.0\GalaxyShooter--Assignment3.AssemblyInfoInputs.cache
+C:\Users\NIDA\source\repos\GalaxyShooter--Assignment3\GalaxyShooter--Assignment3\obj\Debug\net8.0\GalaxyShooter--Assignment3.AssemblyInfo.cs
+C:\Users\NIDA\source\repos\GalaxyShooter--Assignment3\GalaxyShooter--Assignment3\obj\Debug\net8.0\GalaxyShooter--Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\NIDA\source\repos\GalaxyShooter--Assignment3\GalaxyShooter--Assignment3\obj\Debug\net8.0\GalaxyShooter--Assignment3.dll
+C:\Users\NIDA\source\repos\GalaxyShooter--Assignment3\GalaxyShooter--Assignment3\obj\Debug\net8.0\refint\GalaxyShooter--Assignment3.dll
+C:\Users\NIDA\source\repos\GalaxyShooter--Assignment3\GalaxyShooter--Assignment3\obj\Debug\net8.0\GalaxyShooter--Assignment3.pdb
+C:\Users\NIDA\source\repos\GalaxyShooter--Assignment3\GalaxyShooter--Assignment3\obj\Debug\net8.0\GalaxyShooter--Assignment3.genruntimeconfig.cache
+C:\Users\NIDA\source\repos\GalaxyShooter--Assignment3\GalaxyShooter--Assignment3\obj\Debug\net8.0\ref\GalaxyShooter--Assignment3.dll
